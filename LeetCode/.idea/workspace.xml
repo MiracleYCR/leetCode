@@ -1,31 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab7935d6-416b-4d16-90fb-8f01ea3c0866" name="Default Changelist" comment="" />
+    <list default="true" id="ab7935d6-416b-4d16-90fb-8f01ea3c0866" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/696_计数二进制子串/696.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/696_计数二进制子串/696.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1bQSrVprdnI39gtS7pcW8uMK1eC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build LeetCode/696_计数二进制子串">
     <configuration name="go build LeetCode/557_翻转字符串" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -35,8 +56,18 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build LeetCode/696_计数二进制子串" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/696_计数二进制子串/696.go" />
+      <package value="LeetCode/696_计数二进制子串" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build LeetCode/696_计数二进制子串" />
         <item itemvalue="Go Build.go build LeetCode/557_翻转字符串" />
       </list>
     </recent_temporary>
@@ -44,26 +75,29 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>https://goproxy.cn</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1672" height="332" key="GridCell.Tab.0.bottom" timestamp="1588564414624">
+    <state width="1672" height="464" key="GridCell.Tab.0.bottom" timestamp="1588582721834">
       <screen x="78" y="23" width="1842" height="1057" />
     </state>
-    <state width="1672" height="332" key="GridCell.Tab.0.bottom/78.23.1842.1057@78.23.1842.1057" timestamp="1588564414624" />
-    <state width="1672" height="332" key="GridCell.Tab.0.center" timestamp="1588564414623">
+    <state width="1672" height="464" key="GridCell.Tab.0.bottom/78.23.1842.1057@78.23.1842.1057" timestamp="1588582721834" />
+    <state width="1672" height="464" key="GridCell.Tab.0.center" timestamp="1588582721834">
       <screen x="78" y="23" width="1842" height="1057" />
     </state>
-    <state width="1672" height="332" key="GridCell.Tab.0.center/78.23.1842.1057@78.23.1842.1057" timestamp="1588564414623" />
-    <state width="1672" height="332" key="GridCell.Tab.0.left" timestamp="1588564414623">
+    <state width="1672" height="464" key="GridCell.Tab.0.center/78.23.1842.1057@78.23.1842.1057" timestamp="1588582721834" />
+    <state width="1672" height="464" key="GridCell.Tab.0.left" timestamp="1588582721834">
       <screen x="78" y="23" width="1842" height="1057" />
     </state>
-    <state width="1672" height="332" key="GridCell.Tab.0.left/78.23.1842.1057@78.23.1842.1057" timestamp="1588564414623" />
-    <state width="1672" height="332" key="GridCell.Tab.0.right" timestamp="1588564414624">
+    <state width="1672" height="464" key="GridCell.Tab.0.left/78.23.1842.1057@78.23.1842.1057" timestamp="1588582721834" />
+    <state width="1672" height="464" key="GridCell.Tab.0.right" timestamp="1588582721834">
       <screen x="78" y="23" width="1842" height="1057" />
     </state>
-    <state width="1672" height="332" key="GridCell.Tab.0.right/78.23.1842.1057@78.23.1842.1057" timestamp="1588564414624" />
+    <state width="1672" height="464" key="GridCell.Tab.0.right/78.23.1842.1057@78.23.1842.1057" timestamp="1588582721834" />
   </component>
 </project>
