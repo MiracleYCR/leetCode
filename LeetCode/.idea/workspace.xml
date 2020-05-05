@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab7935d6-416b-4d16-90fb-8f01ea3c0866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/696_计数二进制子串/696.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/696_计数二进制子串/696.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组/17_电话号码组合/17.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组/17_电话号码组合/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/557_翻转字符串/557.go" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/557_翻转字符串/557.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/557_翻转字符串/557.js" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/557_翻转字符串/557.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/557_翻转字符串/557.md" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/557_翻转字符串/557.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/696_计数二进制子串/696.go" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/696_计数二进制子串/696.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/696_计数二进制子串/696.js" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/696_计数二进制子串/696.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +50,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/字符串" />
+    </key>
+  </component>
   <component name="RunManager" selected="Go Build.go build LeetCode/696_计数二进制子串">
     <configuration name="go build LeetCode/557_翻转字符串" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
@@ -83,21 +92,21 @@
     <proxy>https://goproxy.cn</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1672" height="464" key="GridCell.Tab.0.bottom" timestamp="1588582721834">
+    <state width="1672" height="464" key="GridCell.Tab.0.bottom" timestamp="1588685715311">
       <screen x="78" y="23" width="1842" height="1057" />
     </state>
-    <state width="1672" height="464" key="GridCell.Tab.0.bottom/78.23.1842.1057@78.23.1842.1057" timestamp="1588582721834" />
-    <state width="1672" height="464" key="GridCell.Tab.0.center" timestamp="1588582721834">
+    <state width="1672" height="464" key="GridCell.Tab.0.bottom/78.23.1842.1057@78.23.1842.1057" timestamp="1588685715311" />
+    <state width="1672" height="464" key="GridCell.Tab.0.center" timestamp="1588685715310">
       <screen x="78" y="23" width="1842" height="1057" />
     </state>
-    <state width="1672" height="464" key="GridCell.Tab.0.center/78.23.1842.1057@78.23.1842.1057" timestamp="1588582721834" />
-    <state width="1672" height="464" key="GridCell.Tab.0.left" timestamp="1588582721834">
+    <state width="1672" height="464" key="GridCell.Tab.0.center/78.23.1842.1057@78.23.1842.1057" timestamp="1588685715310" />
+    <state width="1672" height="464" key="GridCell.Tab.0.left" timestamp="1588685715310">
       <screen x="78" y="23" width="1842" height="1057" />
     </state>
-    <state width="1672" height="464" key="GridCell.Tab.0.left/78.23.1842.1057@78.23.1842.1057" timestamp="1588582721834" />
-    <state width="1672" height="464" key="GridCell.Tab.0.right" timestamp="1588582721834">
+    <state width="1672" height="464" key="GridCell.Tab.0.left/78.23.1842.1057@78.23.1842.1057" timestamp="1588685715310" />
+    <state width="1672" height="464" key="GridCell.Tab.0.right" timestamp="1588685715311">
       <screen x="78" y="23" width="1842" height="1057" />
     </state>
-    <state width="1672" height="464" key="GridCell.Tab.0.right/78.23.1842.1057@78.23.1842.1057" timestamp="1588582721834" />
+    <state width="1672" height="464" key="GridCell.Tab.0.right/78.23.1842.1057@78.23.1842.1057" timestamp="1588685715311" />
   </component>
 </project>
