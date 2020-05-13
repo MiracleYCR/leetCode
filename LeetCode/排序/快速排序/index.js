@@ -17,8 +17,29 @@ function quickSort (arr) {
   }
 }
 
-let arr = [6, 5, 3, 4, 2, 1, 8, 7, 9, 5, 7, 10, 0]
-console.time("sort");
-let newArr = quickSort(arr)
-console.timeEnd("sort");
-console.log(newArr);
+function quickSort2 (arr, start = 0, end = arr.length - 1) {
+  if (start >= end) return
+  const pivot = partition(arr, start, end)
+  quickSort2(arr, start, pivot - 1)
+  quickSort2(arr, pivot + 1, end)
+}
+
+function swap(arr, i, j) {
+  [arr[i], arr[j]] = [arr[j], arr[i]]
+}
+
+function partition(arr, start, end) {
+  let pivot = end, counter = start
+  for(let i = start; i < end; i++) {
+    if (arr[i] < arr[pivot]) {
+      swap(arr, i, counter)
+      counter++
+    }
+  }
+  swap(arr, pivot, counter)
+  return counter
+}
+
+var arr = [5, 1, 3, 6, 4]
+quickSort2(arr)
+console.log(arr);
